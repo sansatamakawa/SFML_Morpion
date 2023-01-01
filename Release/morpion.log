@@ -1,0 +1,116 @@
+﻿  Game.cpp
+  Grid.cpp
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(8,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(8,35): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(16,42): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(16,33): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(48,49): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(48,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(51,49): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(51,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(54,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(54,32): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(57,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(57,32): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(61,49): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(61,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(64,49): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(64,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(67,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(67,32): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(70,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(70,32): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(78,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(147,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(171,23): warning C4018: '<' : incompatibilité signed/unsigned
+  Helper.cpp
+  Homepage.cpp
+  main.cpp
+  Res.cpp
+  Génération de code en cours
+C:\Users\atahi\source\repos\morpion\morpion\Grid.cpp(157): warning C4715: 'Grid::CheckIfNul' : les chemins de contrôle ne retournent pas tous une valeur
+  362 of 508 functions (71.3%) were compiled, the rest were copied from previous compilation.
+    219 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  morpion.vcxproj -> C:\Users\atahi\source\repos\morpion\Release\morpion.exe
